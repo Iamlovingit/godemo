@@ -1,2 +1,2 @@
-# gocode
+# godemo
 golang demo
